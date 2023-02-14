@@ -20,17 +20,15 @@ export const wash2 =['不可熨燙','可熨燙',`水溫${Math.floor(Math.random(
 
 export const placeArr =['台灣','美國','韓國','日本','印尼','菲律賓','馬來西亞','荷蘭','瑞典','瑞士','德國','巴拿馬','馬達加斯加','巴布亞紐幾內亞']
 
-export const noteArr =['即將售完','熱銷中','火熱販賣中','好評熱銷中']
+export const noteArr =['即將售完','熱銷中','火熱販賣中','好評熱銷中',"優惠中","火速進貨中","華麗滯銷中","跳樓拍賣中","促銷活動開跑"]
 
-export const story =`有一個${1}買了它後，在${1}${1}。`
 export const slotAArr =['毒販','王子','公主','強盜','被告','律師','醫生','會計師','工程師','法官','檢察官','書記官']
 export const slotBArr =['夜店','教室','醫院','市民大道','台北車站','公司','辦公室','家裡','自強號','KTV'] 
 export const slotCArr =['撿到200塊','告白成功','發現外星人','結婚','被搶劫','報案','被起訴','被判決有期徒刑','無罪釋放','被保釋','入獄服刑','違反銀行法']
 
-export const colorArr =[['紅','FF0000'],['橙','FFA500'],['黃','FFFF00'],['綠','008000'],['藍','0000FF'],['紫',"8B00FF"],['黑',"000000"],['白',"FFFFFF"]]
+export const colorArr =[['紅色','FF0000'],['橙色','FFA500'],['黃色','FFFF00'],['綠色','008000'],['藍色','0000FF'],['紫色',"8B00FF"],['黑色',"000000"],['白色',"FFFFFF"]]
 export const sizeArr =["XS",'S','M','L','XL','2XL']
 
-export const stock = Math.floor(Math.random()*50)
 
 const picFolder =""
 const mainImg=""
